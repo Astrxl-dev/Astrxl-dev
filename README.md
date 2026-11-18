@@ -9,7 +9,7 @@ Quand je ne suis pas en train de coder des scripts ou de réparer du matos, je p
 ### 💻 Ce que j'utilise au quotidien
 
 * **Langages & Outils :** Python, HTML/CSS, Git.
-* **Réseaux & Systèmes :** Windows Pro & Linux.
+* **Réseaux & Systèmes :** Windows Pro & Linux (Fedora/Arch).
 * **Matériel & Loisirs :** Rétrogaming, émulation, brin d'électronique.
 
 ---
